@@ -6,7 +6,7 @@ permalink: /about/
 
 Chris, a data scientist working at [Holiday Extras][hx].
 
-Initially studied Neuroscience, started looking at computer models of protein structure and found himself doing a PhD in Medical Image processing.
+Initially studied Neuroscience, started looking at computer models of protein structure and later found himself doing a PhD in Medical Image Processing and Mad Cow Disease.
 
 Now works mostly with web data but open to options.
 
