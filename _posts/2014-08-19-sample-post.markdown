@@ -62,4 +62,4 @@ Pellentesque habitant morbi tristique senectus
 : Curabitur malesuada lacus ac gravida porttitor
 : Duis sodales feugiat lorem et mollis. 
 
-Want me to suggest something? Please [Send me a request](https://github.com/web-create/thekensta.github.io/issues/new)
+Want me to suggest something? Please [Send me a request](https://github.com/thekensta/thekensta.github.io/issues/new)
