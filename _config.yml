@@ -4,7 +4,7 @@
 baseurl: 
 
 # Site live URL
-url: http://thekensta.github.io
+# url: http://thekensta.github.io
 
 # Localhost 
 # url: http://127.0.0.1:4000  
@@ -20,7 +20,7 @@ harmony:
   meta_description: > # 
    Theme from 
    https://github.com/gayanvirajith/harmony
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  basetheme: theme-base-03 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Chris 
     email: chris@thekensta.com
