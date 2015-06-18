@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Real World Split Tesing"
+title:  "Real World Split Testing"
 date:   2015-06-01
-description: What happens away from the statisitics text books
+description: What happens away from the statistics text books
 categories:
 - ab
 permalink: real-world-split-testing

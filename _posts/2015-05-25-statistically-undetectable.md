@@ -9,7 +9,7 @@ permalink: real-world-split-testing
 ---
 
 If someone raised the average price of one of our 
-products by 1 penny, the difference *exists* but remains *statisitically insignificant*.
+products by 1 penny, the difference *exists* but remains *statistically insignificant*.
 
 I find it useful to remember that there can be differences in the real world 
 that statistics would tell you are simply noise.
