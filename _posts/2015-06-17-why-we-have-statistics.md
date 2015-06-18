@@ -28,4 +28,4 @@ whether need quick answers or can run classical models or vast samples, the
 statistics will vary.  In a business environment, with different costs, volumes and risks
 there are always trade-offs with the rate at which we learn, or can expect errors.
 
-I think the rest is really about being as least likely to be wrong for your trade-offs as possible.
+Ultimately it is really about being as least-likely to be wrong as possible.
