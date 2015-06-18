@@ -5,7 +5,7 @@ date:   2015-05-25
 description: "The undetectable"
 categories:
 - ab
-permalink: real-world-split-testing
+permalink: statistically-undetectable
 ---
 
 If someone raised the average price of one of our 
