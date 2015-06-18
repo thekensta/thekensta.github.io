@@ -16,12 +16,16 @@ Few agree outright, which leads to the question about why bother at all?
 Isn't there a *right* way for calculating statistics? 
 This is something I find really hard to answer. 
 
-The best answer I have come up with is that statistics help us make the right
-decisions more often.
+I don't think it is hard to explain that errors and samples matter, that samples and values vary using simple
+coin tossing examples but I fall short when it comes to the existence of myriad 
+solutions to the same problem.
+
+The best answer I have come up with is that we use statistics to help us make the right
+decisions *more often*.
 
 Whether you are trying to avoid false positives, false negatives or minimise regret; 
 whether need quick answers or can run classical models or vast samples, the 
-statistics will vary.
+statistics will vary.  In a business environment, with different costs, volumes and risks
+there are always trade-offs with the rate at which we learn, or can expect errors.
 
-It isn't hard to explain that errors and samples matter, I think the rest is 
-really about being as least likely to be wrong for your trade-offs as possible.
+I think the rest is really about being as least likely to be wrong for your trade-offs as possible.
